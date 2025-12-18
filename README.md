@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/htK2nft' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/codepath_submission_vid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- Imgur Link: https://imgur.com/gallery/codepath-pre-work-submission-y9FVn4T -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap for macOS  
